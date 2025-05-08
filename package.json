@@ -1,0 +1,24 @@
+{
+  "name": "nodejscicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshubhatt/NodejsCICD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranshubhatt/NodejsCICD/issues"
+  },
+  "homepage": "https://github.com/pranshubhatt/NodejsCICD#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
